@@ -1,0 +1,90 @@
+{Actions:"[
+   {
+      "button_name" : "Â§4Invisibility",
+      "data" : [
+         {
+            "cmd_line" : "/effect\t@p\tinvisibility\t999999\t255\ttrue",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\tc\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§664 Bedrock",
+      "data" : [
+         {
+            "cmd_line" : "/give\t@p\tbedrock\t64",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\ts\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§eCreative",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\tc\t@p",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\ta\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§2Chat Troll",
+      "data" : [
+         {
+            "cmd_line" : "/execute\t@a\t~\t~\t~\tsay\tIm Gay",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/op\t@p",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "tp\t@a\t~\t~\t~",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§9KillAll",
+      "data" : [
+         {
+            "cmd_line" : "/tag\t@p\tadd\tdontkillme",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect@a[tag=!dontkillme]",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tag\t@p\tadd\tdontkillme\n/kill@a[tag=!dontkillme]",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§1KickAll",
+      "data" : [
+         {
+            "cmd_line" : "/tag\t@p\tadd\tdontkickme",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/kick@a[tag=!dontkickme]",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tag\t@p\tadd\tdontkickme\n/kick@a[tag=!dontkickme]",
+      "type" : 1
+   }
+]
+",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:0f,Current:0f,Max:1024f,Name:"minecraft:luck"},{Base:20f,Current:20f,Max:3.40282e+38f,Name:"minecraft:health"},{Base:0f,Current:0f,Max:16f,Name:"minecraft:absorption"},{Base:0f,Current:0f,Max:1f,Name:"minecraft:knockback_resistance"},{Base:0.5f,Current:0.5f,Max:3.40282e+38f,Name:"minecraft:movement"},{Base:0.02f,Current:0.02f,Max:3.40282e+38f,Name:"minecraft:underwater_movement"},{Base:0.02f,Current:0.02f,Max:3.40282e+38f,Name:"minecraft:lava_movement"},{Base:16f,Current:16f,Max:2048f,Name:"minecraft:follow_range"}],BodyRot:54.8438f,Chested:0b,Color:0b,Color2:0b,CustomName:"Â§4CÂ§6oÂ§emÂ§2mÂ§9aÂ§1nÂ§5d Â§4BÂ§6oÂ§et",CustomNameVisible:1b,Dead:0b,DeathTime:0s,EntityType:51,FallDistance:0f,HurtTime:0s,InterativeText:"Powered_By_The_Official_Discord",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[-354.516f,4f,75.4571f],RawtextName:"§1Powered By The Official Horion Discord.
+https://discord.gg/p8w4xr
+§4Created By: Anonymous",Rotation:[15.4688f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-47244640248l,Variant:19,boundX:0,boundY:0,boundZ:0,canPickupItems:1b,definitions:["+minecraft:npc"],ench:[{id:28s,lvl:1s}],display:{Name:"Â§4CÂ§6oÂ§emÂ§2mÂ§9aÂ§1nÂ§5d Â§4BÂ§6oÂ§et",Lore:["Â§lÂ§emÂ§lÂ§2aÂ§lÂ§9dÂ§lÂ§1e Â§lÂ§5bÂ§lÂ§4y
+Â§6mÂ§eiÂ§2nÂ§9eÂ§1cÂ§5rÂ§4aÂ§6fÂ§etÂ§21Â§99Â§17Â§52"]},hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:-1}

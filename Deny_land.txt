@@ -1,0 +1,1 @@
+{Count:1b,tag:{EntityType:100,ench:[{id:0s,lvl:-1s}],Command:"/execute @a ~~~ fill ~15~15~15 ~-15~-15~-15 deny 0 replace grass",ExecuteOnFirstTick:1b,display:{Name:"Bucket OF Replace"},Ticking:1b,TickDelay:0},Damage:5s,WasPickedUp:0b,Name:"minecraft:bucket"}

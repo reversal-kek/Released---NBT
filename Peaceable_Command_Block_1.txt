@@ -1,0 +1,1 @@
+{Count:1b,tag:{EntityType:66,FallingBlock:{name:"minecraft:command_block"},ench:[{id:28s,lvl:1s}],RepairCost:0,display:{Lore:["§l§3Hacked By Ner0"],Name:"§r§l§aPlaceable Command Block"}},Damage:5s,WasPickedUp:0b,Name:"minecraft:bucket"}

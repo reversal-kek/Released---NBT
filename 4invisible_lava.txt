@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:movingBlock",version:17825808,states:{}},Count:64b,tag:{movingBlock:{name:"minecraft:lava"},movingBlockExtra:{name:"minecraft:light_block",states:{block_light_level:0}},display:{Name:"§7invisible §4lava"}},Damage:0s,WasPickedUp:0b,Name:"minecraft:movingblock"}
